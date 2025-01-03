@@ -27,3 +27,4 @@ A simple Command Line Interface (CLI) application for managing a contact book. T
 bash
 Copy code
 python main.py
+3.The program will automatically create a contacts.db SQLite database if it doesn't exist.
